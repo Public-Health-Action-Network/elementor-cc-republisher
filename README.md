@@ -23,7 +23,7 @@ It allows creators to display the **“Republish”** license badge and modal on
 1. Download or clone this repository:
 
    ```bash
-   git clone https://github.com/Public-Health-Action-Network/Wordpress/elementor-cc-republisher.git
+   git clone https://github.com/Public-Health-Action-Network/elementor-cc-republisher.git
    ```
 
 2. Upload the folder to your WordPress installation:
@@ -141,7 +141,7 @@ You are free to:
 
 - **Plugin slug:** `elementor-cc-republisher`
 - **Author:** [Public Health Action Network (PHAN)](https://phan.global)
-- **Repository:** [Public-Health-Action-Network/Wordpress/elementor-cc-republisher](https://github.com/Public-Health-Action-Network/Wordpress/elementor-cc-republisher)
+- **Repository:** [Public-Health-Action-Network/Wordpress/elementor-cc-republisher](https://github.com/Public-Health-Action-Network/elementor-cc-republisher)
 - **Minimum WordPress version:** 5.8
 - **Tested up to:** 6.7
 - **Requires PHP:** 7.4+
